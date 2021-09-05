@@ -8,7 +8,7 @@ This repository is having all the codes with json for making an Inventory managm
 4. Billing the Products
 
 # Feature
-We've added 5 features per product
+We've added 6 features per product
 1. Product ID
 2. Name of product
 3. Product Company Name
